@@ -1,4 +1,4 @@
-## 乞丐版Vue :Smirk:
+# 乞丐版Vue :smirk:
 
 基于 Proxy 的 Vue 实现
 
